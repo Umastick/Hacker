@@ -338,3 +338,32 @@ div p
 {
 	text-align:center;
 }
+
+@media(max-width: 800px) {
+	main table {
+		width: 100%;
+	}
+
+	main table ul {
+		margin: 0;
+		padding: 0;
+	}
+
+	main table ul li:before {
+		content: "";
+	}
+
+	main table ul li {
+		width: 100%;
+		overflow-wrap: break-word;
+		margin-bottom: 10px;
+	}
+
+	main#sources iframe {
+		width: 100%;
+	}
+
+	table, tbody, td, tr { 
+		display: block; 
+	}
+}

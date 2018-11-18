@@ -3,10 +3,7 @@
 /* Les auteurs du site sont: Lapeyrade Julien, Galy Stéphane et Ziami Hugo */
 
 
-/* ------------------------------------ IMPORTATION DE LA POLICE DE CARACTÈRE PERSONNALISÉE ----------------------------------------- */
-
-	@font-face { font-family: "Anurati Regular"; src: url(font/Anurati-Regular.otf); font-weight: normal; }
-	@font-face { font-family: "Mylodon"; src: url(font/Mylodon-light.otf); font-weight: 800; }
+ 800; }
 
 
 /* ------------------------------------------------------ PAGE INDEX ---------------------------------------------------------------- */
@@ -19,7 +16,7 @@ body{
 {
 	font-size: 4rem;
 	text-align: center;
-	font-family: "Anurati Regular", sans-serif;
+	font-family: Agenda-light, sans-serif;
 	margin-top: 0;
 	letter-spacing: .3rem;
 }
@@ -58,7 +55,7 @@ body{
 
 .main div
 {
-	font-family: "Anurati Regular",Agenda-Light, Agenda Light, Agenda, Arial Narrow, sans-serif;
+	font-family: Agenda-Light, Agenda Light, Agenda, Arial Narrow, sans-serif;
 	position:absolute;
 	left:30%;
 	color: white;

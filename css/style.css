@@ -10,7 +10,7 @@
 
 
 /* ------------------------------------------------------ PAGE INDEX ---------------------------------------------------------------- */
-h1
+#Hacker0 h1
 {
 	font-size: 4rem;
 	text-align: center;
@@ -35,7 +35,7 @@ video
 	transition: 1s opacity;
 }
 
-img
+#Hacker0 img
 {
 	position: fixed;
 	top: 50%;
@@ -83,13 +83,13 @@ div button
 	background: rgba(0,0,0,0.5);
 }
 
-p, blockquote
+#hacker0 p, #Hacker0 blockquote
 {
 	text-align: center;
 	font-size:26;
 }
 
-a
+#Hacker0 a
 {
 	display: block;
 	width: 80%;
@@ -106,7 +106,7 @@ a
 	transition: .3s background;
 }
 
-a:hover
+#Hacker0 a:hover
 {
 	background:rgba(0,0,0,0.9);
 }

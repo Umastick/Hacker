@@ -63,7 +63,7 @@ video
 	font-size: 1.5rem;
 }
 
-div button
+div a
 {
 	display: block;
 	width: 80%;
@@ -78,7 +78,7 @@ div button
 	transition: .3s background;
 }
 
-#Hacker0 button:hover
+#Hacker0 a:hover
 {
 	background: rgba(0,0,0,0.5);
 }

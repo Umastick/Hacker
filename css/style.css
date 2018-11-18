@@ -367,11 +367,21 @@ div p
 		display: block;
 		overflow: hidden;
 	}
+	
 	footer {
-		display;block;
-		margin-top: 0;
-		margin-right:0;
-		width:100;
+		 background-color: rgba(235,235,235,1);
+		 overflow: auto;
+	}
+	
+	.footer-container {
+		max-width: 65%;
+		margin: auto;
+		background-repeat: no-repeat;
+		overflow: auto;
+		padding: 3%;
+		color: rgba(0,0,0,0.6);
+		font-weight: normal;
+		font-size: 11px;
 	}
 
 	

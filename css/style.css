@@ -141,42 +141,42 @@ body
 	background-image: linear-gradient(to right bottom, #272727, #303335, #374041, #404d4a, #50594e);
 }
 
-a:link
+.other a:link
 {
 	text-decoration:none;
 	color:red;
 }
 
-a:visited
+.other a:visited
 {
 	color: green;
 }
 
-a:hover
+.other a:hover
 {
 	font-weight: bold;
 	color:rgb(99, 197, 99);
 }
 
-h2
+.other h2
 {
 	margin-left: 2px;
 }
 
-header
+.other header
 {
 	background-color:#2121214d;
 	height:116px;
 	border: 1px solid grey;
 }
 
-header h1
+.other header h1
 {
 	margin-top:29px;
 	color:Red;
 }
 
-header img
+.other header img
 {
 	position:absolute;
 	top:0;
@@ -186,7 +186,7 @@ header img
 	border-right:0;
 }
 
-nav
+.other nav
 {
 	z-index:999;
 	background-image:url(/Hackers-master/images/matrixeffect.jpg);
@@ -197,7 +197,7 @@ nav
 	border: 1px solid grey;
 }
 
-nav li
+.other nav li
 {
 	display:inline-block;
 	margin-left :20px;
@@ -211,7 +211,7 @@ nav li
 	font-variant: small-caps;
 }
 
-section
+.other section
 {
 	position:relative;
 	bottom:0;
@@ -223,7 +223,7 @@ section
 	padding: 15px;
 }
 
-section, article, footer
+.other section, article, footer
 {
 	z-index:1;
 	border: 1px solid grey;
@@ -272,7 +272,7 @@ footer nav ul li
 	padding-right: 20px
 }
 
-h1
+.other h1
 {
 	font-size: 3rem;
 	text-align: center;

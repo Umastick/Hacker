@@ -185,6 +185,7 @@ nav
 	z-index:999;
 	background-image:url(/Hackers-master/images/matrixeffect.jpg);
 	margin:0;
+	position: sticky;
 	width: 99.85%;
 	text-align: center;
 	top:0;

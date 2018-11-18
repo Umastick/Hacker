@@ -142,7 +142,7 @@ body
 	background-image: linear-gradient(to right bottom, #272727, #303335, #374041, #404d4a, #50594e);
 }
 
-. a:link
+a:link
 {
 	text-decoration:none;
 	color:red;

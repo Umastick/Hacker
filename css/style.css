@@ -369,8 +369,12 @@ div p
 	}
 	
 	footer {
-		 background-color: rgba(235,235,235,1);
-		 overflow: auto;
+	display:flex;	
+	max-width:1900px;
+	min-width:800px;
+	margin: auto;
+	width: 100%;
+	
 	}
 	
 	.footer-container {

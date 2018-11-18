@@ -360,6 +360,7 @@ div p
 	}
 
 	table, tbody, td, tr { 
-		display: block; 
+		display: block;
+		overflow: hidden;
 	}
 }

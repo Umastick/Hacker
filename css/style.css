@@ -3,8 +3,7 @@
 /* Les auteurs du site sont: Lapeyrade Julien, Galy Stéphane et Ziami Hugo */
 
 
- 800; }
-
+ 
 
 /* ------------------------------------------------------ PAGE INDEX ---------------------------------------------------------------- */
 
@@ -340,7 +339,6 @@ div p
 @media(max-width: 800px) {
 	main table {
 		width: 100%;
-		overflow: hidden;
 		font-size: 1.5rem;
 	}
 
@@ -366,7 +364,6 @@ div p
 
 	table, body, td, tr { 
 		display: block;
-		overflow: hidden;
 		margin-bottom: 0;
 	}
 	

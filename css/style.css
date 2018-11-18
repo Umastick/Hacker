@@ -256,6 +256,11 @@ footer nav
 	text-align: center;
 }
 
+footer nav div a
+{
+	text-align: center;
+}
+
 footer nav ul li
 {
 	display: inline-block;

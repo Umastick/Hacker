@@ -357,6 +357,7 @@ div p
 		width: 100%;
 		overflow-wrap: break-word;
 		margin-bottom: 10px;
+		font-size: 1.5rem;
 	}
 
 	main#sources iframe {
@@ -374,11 +375,12 @@ div p
 	min-width:800px;
 	margin: auto;
 	width: 100%;
+	font-size: 1.5rem;
 	
 	}
 	
 	.footer-container {
-		max-width: 65%;
+		max-width: 100
 		margin: auto;
 		background-repeat: no-repeat;
 		overflow: auto;
@@ -387,6 +389,8 @@ div p
 		font-weight: normal;
 		font-size: 11px;
 	}
+	
+	
 
 	
 }

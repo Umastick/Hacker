@@ -337,6 +337,7 @@ div p
 @media(max-width: 800px) {
 	main table {
 		width: 100%;
+		overflow: hidden;
 	}
 
 	main table ul {

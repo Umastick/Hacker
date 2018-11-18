@@ -365,6 +365,7 @@ div p
 		width: 100%;
 		overflow-wrap: break-word;
 		margin-bottom: 10px;
+		list-style: none;
 		
 	}
 

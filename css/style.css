@@ -365,7 +365,7 @@ div p
 		width: 100%;
 		overflow-wrap: break-word;
 		margin-bottom: 10px;
-		list-style: none;
+		
 		
 	}
 
@@ -376,6 +376,7 @@ div p
 	table, body, td, tr { 
 		display: block;
 		margin-bottom: 0;
+		list-style: none;
 	}
 	
 	footer {
@@ -386,7 +387,6 @@ div p
 	margin: auto;
 	width: 100%;
 	font-size: 1.5rem;
-	
 	}
 	
 	footer nav div a {

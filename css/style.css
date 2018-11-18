@@ -360,19 +360,21 @@ div p
 		font-size: 1.5rem;
 	}
 
-	main#sources iframe {
+	main iframe {
 		width: 100%;
 	}
 
-	table, tbody, td, tr { 
+	table, body, td, tr { 
 		display: block;
 		overflow: hidden;
+		margin-bottom: 0;
 	}
 	
 	footer {
 	display:flex;	
 	max-width:1900px;
 	min-width:800px;
+	margin-top:0;
 	margin: auto;
 	width: 100%;
 	font-size: 1.5rem;

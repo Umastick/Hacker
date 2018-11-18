@@ -87,6 +87,11 @@ p, #Hacker0 blockquote
 	color:white;
 }
 
+#Hacker0 blockquote q
+{
+	color:chartreuse;
+}
+
 .main a
 {
 	display: block;
@@ -385,6 +390,7 @@ div p
 	
 	footer nav div a {
 		padding-left: 33%;
+	}
 	
 	.footer-container {
 		max-width: 100%;
@@ -396,8 +402,5 @@ div p
 		font-weight: normal;
 		font-size: 11px;
 	}
-	
-	
-
 	
 }

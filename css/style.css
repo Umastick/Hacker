@@ -6,14 +6,14 @@ body
 
 /* ---------------------------- IMPORTATION DE LA POLICE DE CARACTÈRE PERSONNALISÉE ---------------------------- */
 
-	@font-face { font-family: "Anurati regular"; src: url(font/Anurati-regular.otf); font-weight: normal; }
+	@font-face { font-family: "Anurati Regular"; src: url(font/Anurati-regular.otf); font-weight: normal; }
 	@font-face { font-family: "Mylodon"; src: url(font/Mylodon-light.otf); font-weight: 800; }
 	
 h1
 {
 	font-size: 4rem;
 	text-align: center;
-	font-family:"Anurati regular", sans-serif;
+	font-family: "Anurati Regular", sans-serif;
 	margin-top: 0;
 	letter-spacing: .3rem;
 }

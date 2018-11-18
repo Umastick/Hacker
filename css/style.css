@@ -1,6 +1,7 @@
-/*CSS */
+/*----------------------------------------------------------- CSS: Hacker ----------------------------------------------------------- */
 /* Feuille de style désigné au site Hacker pour le module M1105 */
 /* Les auteurs du site sont: Lapeyrade Julien, Galy Stéphane et Ziami Hugo */
+
 html, body, #main {
 	margin: 0px;
 	padding: 0px;
@@ -15,13 +16,13 @@ body
 	padding:0px;
 }
 
-/* ---------------------------- IMPORTATION DE LA POLICE DE CARACTÈRE PERSONNALISÉE ---------------------------- */
+/* ------------------------------------ IMPORTATION DE LA POLICE DE CARACTÈRE PERSONNALISÉE ----------------------------------------- */
 
 	@font-face { font-family: "Anurati Regular"; src: url(font/Anurati-Regular.otf); font-weight: normal; }
 	@font-face { font-family: "Mylodon"; src: url(font/Mylodon-light.otf); font-weight: 800; }
 
 
-/* ------------------------------   POUR LA PAGE INDEX ---> PAGE DE PRESENTATION  ------------------------------ */
+/* ------------------------------------------------------ PAGE INDEX ---------------------------------------------------------------- */
 h1
 {
 	font-size: 4rem;
@@ -130,3 +131,4 @@ a:hover
   html { background: url(images/Hacker0.jpg) #000 no-repeat center center fixed; }
   #position_video { display: none; }
 } 
+/* ------------------------------------------------ COMMUN A TOUTES LES AUTRES PAGES ------------------------------------------------ */
